@@ -1,1 +1,0 @@
-A bug is fixed!
